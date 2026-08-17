@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: AtlasLoot |cff69ccf0[Alterac]|r
+## Notes: AtlasLoot data for Alterac's custom content (Stromgarde Keep)
+## Author: Alterac
+## Version: 1.0.0
+## Dependencies: AtlasLoot
+## X-Category: Map
+
+alterac.lua
